@@ -1,1 +1,1 @@
-This code repository will create a website, hosting a recipe repository. The main purpose of this project is for educational purposes.
+A recipe book, in a website! The main purpose of this website is for educational purposes.
